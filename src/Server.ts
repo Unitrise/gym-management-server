@@ -7,7 +7,7 @@ import ContractRoutes from "./routes/ContractRoutes";
 import logger from "./services/LoggerService"; // Import the logger
 import ClassesRoutes from "./routes/ClassesRoutes";
 import MemberRoutes from "./routes/MembersRoutes";
-
+import LeadsRoutes from "./routes/LeadRoutes";
 class Server {
   private app: Application;
   private port: number;
@@ -54,12 +54,14 @@ class Server {
     const contractRoutes = new ContractRoutes();
     const memberRoutes = new MemberRoutes();
     const classesRoutes = new ClassesRoutes();
+    const leads = new LeadsRoutes();
 
     this.app.use("/api", userRoutes.getRouter());
     this.app.use("/api", inventoryRoutes.getRouter());
     this.app.use("/api", contractRoutes.getRouter());
     this.app.use("/api", memberRoutes.getRouter());
     this.app.use("/api", classesRoutes.getRouter());
+    this.app.use("/api", leads.getRouter());
 
   }
 

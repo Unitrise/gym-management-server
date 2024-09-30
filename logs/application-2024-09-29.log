@@ -1,0 +1,2017 @@
+2024-09-28T22:11:54.724Z [info] : Members fetched successfully
+2024-09-28T22:11:54.730Z [info] : Members fetched successfully
+2024-09-28T22:12:00.609Z [info] : Members fetched successfully
+2024-09-28T22:12:00.613Z [info] : Members fetched successfully
+2024-09-28T22:12:02.941Z [info] : Members fetched successfully
+2024-09-28T22:14:13.005Z [info] : Classes fetched successfully
+2024-09-28T22:14:13.008Z [info] : Members fetched successfully
+2024-09-28T22:14:13.012Z [info] : Classes fetched successfully
+2024-09-28T22:14:13.014Z [info] : Members fetched successfully
+2024-09-28T22:17:43.005Z [info] : Members fetched successfully
+2024-09-28T22:17:43.011Z [info] : Members fetched successfully
+2024-09-28T22:17:44.686Z [info] : Members fetched successfully
+2024-09-28T22:17:44.693Z [info] : Members fetched successfully
+2024-09-28T22:17:50.718Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:17:50.720Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:17:51.514Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:17:51.516Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:17:51.857Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:17:51.861Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:17:52.218Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:17:52.221Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:17:52.222Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:17:52.223Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:17:52.225Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:17:52.226Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:17:53.148Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:17:53.151Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:30:27.159Z [error] : TokenExpiredError: jwt expired
+    at C:\gym-software\server\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\gym-software\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (C:\gym-software\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\gym-software\server\src\controllers\UserController.ts:150:32
+    at Generator.next (<anonymous>)
+    at C:\gym-software\server\src\controllers\UserController.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\gym-software\server\src\controllers\UserController.ts:4:12)
+    at getMe (C:\gym-software\server\src\controllers\UserController.ts:153:16)
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+2024-09-28T22:30:27.166Z [error] : TokenExpiredError: jwt expired
+    at C:\gym-software\server\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\gym-software\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (C:\gym-software\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\gym-software\server\src\controllers\UserController.ts:150:32
+    at Generator.next (<anonymous>)
+    at C:\gym-software\server\src\controllers\UserController.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\gym-software\server\src\controllers\UserController.ts:4:12)
+    at getMe (C:\gym-software\server\src\controllers\UserController.ts:153:16)
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+2024-09-28T22:30:28.470Z [info] : Authenticated user fetched successfully
+2024-09-28T22:30:28.530Z [info] : Members fetched successfully
+2024-09-28T22:30:28.537Z [info] : Members fetched successfully
+2024-09-28T22:30:33.357Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:30:33.358Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:30:44.054Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:30:44.056Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:30:45.163Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:30:45.165Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:31:41.786Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:31:41.789Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:32:03.887Z [info] : Authenticated user fetched successfully
+2024-09-28T22:32:03.890Z [info] : Authenticated user fetched successfully
+2024-09-28T22:32:15.780Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:32:15.781Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:32:17.742Z [info] : Authenticated user fetched successfully
+2024-09-28T22:32:17.746Z [info] : Authenticated user fetched successfully
+2024-09-28T22:32:17.796Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:32:17.798Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:32:18.849Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:32:18.851Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:32:22.015Z [info] : Authenticated user fetched successfully
+2024-09-28T22:32:22.020Z [info] : Authenticated user fetched successfully
+2024-09-28T22:32:22.051Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:32:22.054Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:32:31.234Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:32:31.236Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:33:09.106Z [info] : Authenticated user fetched successfully
+2024-09-28T22:33:09.121Z [info] : Authenticated user fetched successfully
+2024-09-28T22:33:09.135Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:33:09.137Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:34:20.461Z [info] : Authenticated user fetched successfully
+2024-09-28T22:34:20.466Z [info] : Authenticated user fetched successfully
+2024-09-28T22:34:20.516Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:34:20.522Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:34:32.196Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:34:32.198Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:35:07.495Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:35:10.667Z [info] : Authenticated user fetched successfully
+2024-09-28T22:35:10.669Z [info] : Authenticated user fetched successfully
+2024-09-28T22:35:10.709Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:35:10.712Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:35:11.733Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:35:11.737Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:35:14.011Z [info] : Authenticated user fetched successfully
+2024-09-28T22:35:14.015Z [info] : Authenticated user fetched successfully
+2024-09-28T22:35:14.048Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:35:14.050Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:35:20.682Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:35:20.684Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:36:06.837Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:37:08.085Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:37:31.194Z [info] : Lead created successfully
+2024-09-28T22:37:35.480Z [info] : Authenticated user fetched successfully
+2024-09-28T22:37:35.486Z [info] : Authenticated user fetched successfully
+2024-09-28T22:37:35.525Z [info] : Leads fetched successfully
+2024-09-28T22:37:35.530Z [info] : Leads fetched successfully
+2024-09-28T22:37:35.952Z [info] : Leads fetched successfully
+2024-09-28T22:37:35.956Z [info] : Leads fetched successfully
+2024-09-28T22:38:10.668Z [info] : Leads fetched successfully
+2024-09-28T22:38:10.671Z [info] : Leads fetched successfully
+2024-09-28T22:38:20.305Z [info] : Leads fetched successfully
+2024-09-28T22:38:20.309Z [info] : Leads fetched successfully
+2024-09-28T22:38:21.548Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:38:21.555Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:38:21.559Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:38:21.561Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:38:21.566Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:38:21.570Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:38:22.870Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:38:22.872Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:38:33.344Z [info] : Members fetched successfully
+2024-09-28T22:38:33.351Z [info] : Members fetched successfully
+2024-09-28T22:38:35.101Z [info] : Members fetched successfully
+2024-09-28T22:38:35.105Z [info] : Members fetched successfully
+2024-09-28T22:38:36.253Z [info] : Classes fetched successfully
+2024-09-28T22:38:36.256Z [info] : Members fetched successfully
+2024-09-28T22:38:36.260Z [info] : Classes fetched successfully
+2024-09-28T22:38:36.262Z [info] : Members fetched successfully
+2024-09-28T22:39:05.382Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:39:05.385Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:39:06.906Z [info] : Leads fetched successfully
+2024-09-28T22:39:06.911Z [info] : Leads fetched successfully
+2024-09-28T22:39:08.486Z [info] : Leads fetched successfully
+2024-09-28T22:39:08.489Z [info] : Leads fetched successfully
+2024-09-28T22:39:09.563Z [info] : Leads fetched successfully
+2024-09-28T22:39:09.566Z [info] : Leads fetched successfully
+2024-09-28T22:39:10.291Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:39:10.295Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:39:10.297Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:39:10.300Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:39:10.302Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:39:10.304Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:39:10.944Z [info] : Leads fetched successfully
+2024-09-28T22:39:10.947Z [info] : Leads fetched successfully
+2024-09-28T22:39:16.089Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:39:16.091Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:39:25.840Z [info] : Members fetched successfully
+2024-09-28T22:39:25.846Z [info] : Members fetched successfully
+2024-09-28T22:39:28.138Z [info] : Leads fetched successfully
+2024-09-28T22:39:28.140Z [info] : Leads fetched successfully
+2024-09-28T22:39:29.501Z [info] : Leads fetched successfully
+2024-09-28T22:39:29.506Z [info] : Leads fetched successfully
+2024-09-28T22:39:32.296Z [info] : Leads fetched successfully
+2024-09-28T22:39:32.298Z [info] : Leads fetched successfully
+2024-09-28T22:39:34.061Z [info] : Leads fetched successfully
+2024-09-28T22:39:34.063Z [info] : Leads fetched successfully
+2024-09-28T22:39:46.258Z [info] : Authenticated user fetched successfully
+2024-09-28T22:39:46.262Z [info] : Authenticated user fetched successfully
+2024-09-28T22:39:46.323Z [info] : Leads fetched successfully
+2024-09-28T22:39:46.330Z [info] : Leads fetched successfully
+2024-09-28T22:39:58.876Z [info] : Leads fetched successfully
+2024-09-28T22:39:58.879Z [info] : Leads fetched successfully
+2024-09-28T22:39:59.601Z [info] : Leads fetched successfully
+2024-09-28T22:39:59.604Z [info] : Leads fetched successfully
+2024-09-28T22:40:00.519Z [info] : Leads fetched successfully
+2024-09-28T22:40:00.522Z [info] : Leads fetched successfully
+2024-09-28T22:40:01.341Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:40:01.344Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:40:01.347Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:40:01.348Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:40:01.353Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:40:01.355Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:40:01.957Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:40:01.959Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:41:41.212Z [info] : Leads fetched successfully
+2024-09-28T22:41:41.215Z [info] : Leads fetched successfully
+2024-09-28T22:41:42.329Z [info] : Authenticated user fetched successfully
+2024-09-28T22:41:42.332Z [info] : Authenticated user fetched successfully
+2024-09-28T22:41:42.377Z [info] : Leads fetched successfully
+2024-09-28T22:41:42.379Z [info] : Leads fetched successfully
+2024-09-28T22:41:43.054Z [info] : Leads fetched successfully
+2024-09-28T22:41:43.056Z [info] : Leads fetched successfully
+2024-09-28T22:52:10.811Z [info] : Leads fetched successfully
+2024-09-28T22:52:10.813Z [info] : Leads fetched successfully
+2024-09-28T22:52:12.007Z [info] : Authenticated user fetched successfully
+2024-09-28T22:52:12.018Z [info] : Authenticated user fetched successfully
+2024-09-28T22:52:12.064Z [info] : Leads fetched successfully
+2024-09-28T22:52:12.066Z [info] : Leads fetched successfully
+2024-09-28T22:52:13.034Z [info] : Leads fetched successfully
+2024-09-28T22:52:13.036Z [info] : Leads fetched successfully
+2024-09-28T22:52:13.852Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:52:23.924Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:52:23.928Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:52:26.198Z [info] : Authenticated user fetched successfully
+2024-09-28T22:52:26.202Z [info] : Authenticated user fetched successfully
+2024-09-28T22:52:26.235Z [info] : Leads fetched successfully
+2024-09-28T22:52:26.237Z [info] : Leads fetched successfully
+2024-09-28T22:52:27.418Z [info] : Leads fetched successfully
+2024-09-28T22:52:27.421Z [info] : Leads fetched successfully
+2024-09-28T22:52:28.380Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:52:41.367Z [info] : Note added to lead successfully
+2024-09-28T22:52:41.373Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:53:09.828Z [info] : Authenticated user fetched successfully
+2024-09-28T22:53:09.832Z [info] : Authenticated user fetched successfully
+2024-09-28T22:53:09.881Z [info] : Leads fetched successfully
+2024-09-28T22:53:09.885Z [info] : Leads fetched successfully
+2024-09-28T22:53:10.777Z [info] : Leads fetched successfully
+2024-09-28T22:53:10.779Z [info] : Leads fetched successfully
+2024-09-28T22:53:11.934Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:53:34.189Z [info] : Lead deleted successfully
+2024-09-28T22:53:34.195Z [info] : Leads fetched successfully
+2024-09-28T22:53:44.558Z [info] : Lead created successfully
+2024-09-28T22:53:47.034Z [info] : Authenticated user fetched successfully
+2024-09-28T22:53:47.046Z [info] : Authenticated user fetched successfully
+2024-09-28T22:53:47.090Z [info] : Leads fetched successfully
+2024-09-28T22:53:47.094Z [info] : Leads fetched successfully
+2024-09-28T22:53:47.662Z [info] : Leads fetched successfully
+2024-09-28T22:53:47.665Z [info] : Leads fetched successfully
+2024-09-28T22:53:48.550Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:53:52.365Z [info] : Note added to lead successfully
+2024-09-28T22:53:52.367Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:53:57.684Z [info] : Authenticated user fetched successfully
+2024-09-28T22:53:57.686Z [info] : Authenticated user fetched successfully
+2024-09-28T22:53:57.725Z [info] : Leads fetched successfully
+2024-09-28T22:53:57.728Z [info] : Leads fetched successfully
+2024-09-28T22:53:58.792Z [info] : Leads fetched successfully
+2024-09-28T22:53:58.796Z [info] : Leads fetched successfully
+2024-09-28T22:53:59.902Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:55:00.967Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:56:25.856Z [info] : Authenticated user fetched successfully
+2024-09-28T22:56:25.861Z [info] : Authenticated user fetched successfully
+2024-09-28T22:56:25.913Z [info] : Leads fetched successfully
+2024-09-28T22:56:25.916Z [info] : Leads fetched successfully
+2024-09-28T22:56:27.142Z [info] : Leads fetched successfully
+2024-09-28T22:56:27.144Z [info] : Leads fetched successfully
+2024-09-28T22:56:30.233Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:57:04.360Z [info] : Note added to lead successfully
+2024-09-28T22:57:04.365Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:58:50.469Z [info] : Authenticated user fetched successfully
+2024-09-28T22:58:50.474Z [info] : Authenticated user fetched successfully
+2024-09-28T22:58:50.518Z [info] : Leads fetched successfully
+2024-09-28T22:58:50.521Z [info] : Leads fetched successfully
+2024-09-28T22:58:51.636Z [info] : Leads fetched successfully
+2024-09-28T22:58:51.640Z [info] : Leads fetched successfully
+2024-09-28T22:58:52.419Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:58:54.495Z [info] : Note added to lead successfully
+2024-09-28T22:58:54.499Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:58:57.058Z [info] : Authenticated user fetched successfully
+2024-09-28T22:58:57.064Z [info] : Authenticated user fetched successfully
+2024-09-28T22:58:57.099Z [info] : Leads fetched successfully
+2024-09-28T22:58:57.102Z [info] : Leads fetched successfully
+2024-09-28T22:58:58.268Z [info] : Leads fetched successfully
+2024-09-28T22:58:58.272Z [info] : Leads fetched successfully
+2024-09-28T22:58:59.208Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T22:59:55.979Z [info] : Note added to lead successfully
+2024-09-28T22:59:55.984Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T23:00:24.566Z [info] : Authenticated user fetched successfully
+2024-09-28T23:00:24.568Z [info] : Authenticated user fetched successfully
+2024-09-28T23:00:24.614Z [info] : Leads fetched successfully
+2024-09-28T23:00:24.618Z [info] : Leads fetched successfully
+2024-09-28T23:00:26.384Z [info] : Leads fetched successfully
+2024-09-28T23:00:26.386Z [info] : Leads fetched successfully
+2024-09-28T23:00:28.010Z [info] : Leads fetched successfully
+2024-09-28T23:00:28.013Z [info] : Leads fetched successfully
+2024-09-28T23:00:28.792Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T23:00:28.793Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T23:00:28.795Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T23:00:28.797Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T23:00:28.800Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T23:00:28.802Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T23:00:29.887Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T23:00:29.890Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T23:00:31.662Z [info] : Leads fetched successfully
+2024-09-28T23:00:31.665Z [info] : Leads fetched successfully
+2024-09-28T23:00:32.998Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T23:00:35.077Z [info] : Note added to lead successfully
+2024-09-28T23:00:35.083Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-28T23:02:18.788Z [info] : Note added to lead successfully
+2024-09-28T23:02:18.797Z [error] : TypeError: Cannot read properties of null (reading '_id')
+    at C:\gym-software\server\src\controllers\LeadController.ts:111:57
+    at Array.filter (<anonymous>)
+    at Proxy.methods.<computed> (C:\gym-software\server\node_modules\mongoose\lib\types\array\methods\index.js:1054:24)
+    at Function.<anonymous> (C:\gym-software\server\src\controllers\LeadController.ts:111:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\gym-software\server\src\controllers\LeadController.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-28T23:02:21.243Z [info] : Authenticated user fetched successfully
+2024-09-28T23:02:21.250Z [info] : Authenticated user fetched successfully
+2024-09-28T23:02:21.279Z [info] : Leads fetched successfully
+2024-09-28T23:02:21.285Z [info] : Leads fetched successfully
+2024-09-28T23:02:22.291Z [info] : Leads fetched successfully
+2024-09-28T23:02:22.295Z [info] : Leads fetched successfully
+2024-09-28T23:02:23.068Z [error] : TypeError: Cannot read properties of null (reading '_id')
+    at C:\gym-software\server\src\controllers\LeadController.ts:111:57
+    at Array.filter (<anonymous>)
+    at Proxy.methods.<computed> (C:\gym-software\server\node_modules\mongoose\lib\types\array\methods\index.js:1054:24)
+    at Function.<anonymous> (C:\gym-software\server\src\controllers\LeadController.ts:111:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\gym-software\server\src\controllers\LeadController.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-28T23:03:02.474Z [info] : Authenticated user fetched successfully
+2024-09-28T23:03:02.479Z [info] : Authenticated user fetched successfully
+2024-09-28T23:03:02.526Z [info] : Leads fetched successfully
+2024-09-28T23:03:02.529Z [info] : Leads fetched successfully
+2024-09-28T23:03:03.684Z [info] : Leads fetched successfully
+2024-09-28T23:03:03.687Z [info] : Leads fetched successfully
+2024-09-28T23:03:04.699Z [info] : Note deleted from lead successfully
+2024-09-28T23:03:08.167Z [info] : Note added to lead successfully
+2024-09-28T23:03:08.173Z [error] : TypeError: Cannot read properties of null (reading '_id')
+    at C:\gym-software\server\src\controllers\LeadController.ts:111:57
+    at Array.filter (<anonymous>)
+    at Proxy.methods.<computed> (C:\gym-software\server\node_modules\mongoose\lib\types\array\methods\index.js:1054:24)
+    at Function.<anonymous> (C:\gym-software\server\src\controllers\LeadController.ts:111:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\gym-software\server\src\controllers\LeadController.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-28T23:07:46.531Z [info] : Authenticated user fetched successfully
+2024-09-28T23:07:46.541Z [info] : Authenticated user fetched successfully
+2024-09-28T23:07:46.601Z [info] : Leads fetched successfully
+2024-09-28T23:07:46.605Z [info] : Leads fetched successfully
+2024-09-28T23:07:48.068Z [info] : Leads fetched successfully
+2024-09-28T23:07:48.071Z [info] : Leads fetched successfully
+2024-09-28T23:07:49.793Z [error] : TypeError: Cannot read properties of null (reading '_id')
+    at C:\gym-software\server\src\controllers\LeadController.ts:111:57
+    at Array.filter (<anonymous>)
+    at Proxy.methods.<computed> (C:\gym-software\server\node_modules\mongoose\lib\types\array\methods\index.js:1054:24)
+    at Function.<anonymous> (C:\gym-software\server\src\controllers\LeadController.ts:111:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\gym-software\server\src\controllers\LeadController.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-28T23:07:51.745Z [info] : Note added to lead successfully
+2024-09-28T23:07:51.753Z [error] : TypeError: Cannot read properties of null (reading '_id')
+    at C:\gym-software\server\src\controllers\LeadController.ts:111:57
+    at Array.filter (<anonymous>)
+    at Proxy.methods.<computed> (C:\gym-software\server\node_modules\mongoose\lib\types\array\methods\index.js:1054:24)
+    at Function.<anonymous> (C:\gym-software\server\src\controllers\LeadController.ts:111:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\gym-software\server\src\controllers\LeadController.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-28T23:07:58.181Z [info] : Note added to lead successfully
+2024-09-28T23:07:58.188Z [error] : TypeError: Cannot read properties of null (reading '_id')
+    at C:\gym-software\server\src\controllers\LeadController.ts:113:57
+    at Array.filter (<anonymous>)
+    at Proxy.methods.<computed> (C:\gym-software\server\node_modules\mongoose\lib\types\array\methods\index.js:1054:24)
+    at Function.<anonymous> (C:\gym-software\server\src\controllers\LeadController.ts:113:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\gym-software\server\src\controllers\LeadController.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-28T23:11:43.258Z [info] : Authenticated user fetched successfully
+2024-09-28T23:11:43.266Z [info] : Authenticated user fetched successfully
+2024-09-28T23:11:43.310Z [info] : Leads fetched successfully
+2024-09-28T23:11:43.318Z [info] : Leads fetched successfully
+2024-09-28T23:11:44.319Z [info] : Leads fetched successfully
+2024-09-28T23:11:44.323Z [info] : Leads fetched successfully
+2024-09-28T23:11:45.345Z [error] : TypeError: Cannot read properties of null (reading '_id')
+    at C:\gym-software\server\src\controllers\LeadController.ts:113:57
+    at Array.filter (<anonymous>)
+    at Proxy.methods.<computed> (C:\gym-software\server\node_modules\mongoose\lib\types\array\methods\index.js:1054:24)
+    at Function.<anonymous> (C:\gym-software\server\src\controllers\LeadController.ts:113:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\gym-software\server\src\controllers\LeadController.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-28T23:11:47.996Z [info] : Note added to lead successfully
+2024-09-28T23:11:48.002Z [error] : TypeError: Cannot read properties of null (reading '_id')
+    at C:\gym-software\server\src\controllers\LeadController.ts:113:57
+    at Array.filter (<anonymous>)
+    at Proxy.methods.<computed> (C:\gym-software\server\node_modules\mongoose\lib\types\array\methods\index.js:1054:24)
+    at Function.<anonymous> (C:\gym-software\server\src\controllers\LeadController.ts:113:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\gym-software\server\src\controllers\LeadController.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-28T23:11:50.242Z [info] : Lead updated successfully
+2024-09-28T23:11:50.248Z [info] : Leads fetched successfully
+2024-09-28T23:11:51.502Z [error] : TypeError: Cannot read properties of null (reading '_id')
+    at C:\gym-software\server\src\controllers\LeadController.ts:113:57
+    at Array.filter (<anonymous>)
+    at Proxy.methods.<computed> (C:\gym-software\server\node_modules\mongoose\lib\types\array\methods\index.js:1054:24)
+    at Function.<anonymous> (C:\gym-software\server\src\controllers\LeadController.ts:113:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\gym-software\server\src\controllers\LeadController.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-28T23:11:52.602Z [info] : Authenticated user fetched successfully
+2024-09-28T23:11:52.613Z [info] : Authenticated user fetched successfully
+2024-09-28T23:11:52.637Z [info] : Leads fetched successfully
+2024-09-28T23:11:52.641Z [info] : Leads fetched successfully
+2024-09-28T23:11:53.775Z [info] : Leads fetched successfully
+2024-09-28T23:11:53.780Z [info] : Leads fetched successfully
+2024-09-28T23:11:54.461Z [error] : TypeError: Cannot read properties of null (reading '_id')
+    at C:\gym-software\server\src\controllers\LeadController.ts:113:57
+    at Array.filter (<anonymous>)
+    at Proxy.methods.<computed> (C:\gym-software\server\node_modules\mongoose\lib\types\array\methods\index.js:1054:24)
+    at Function.<anonymous> (C:\gym-software\server\src\controllers\LeadController.ts:113:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\gym-software\server\src\controllers\LeadController.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-29T07:10:30.158Z [error] : TokenExpiredError: jwt expired
+    at C:\gym-software\server\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\gym-software\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (C:\gym-software\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\gym-software\server\src\controllers\UserController.ts:150:32
+    at Generator.next (<anonymous>)
+    at C:\gym-software\server\src\controllers\UserController.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\gym-software\server\src\controllers\UserController.ts:4:12)
+    at getMe (C:\gym-software\server\src\controllers\UserController.ts:153:16)
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+2024-09-29T07:10:30.161Z [error] : TokenExpiredError: jwt expired
+    at C:\gym-software\server\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\gym-software\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (C:\gym-software\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\gym-software\server\src\controllers\UserController.ts:150:32
+    at Generator.next (<anonymous>)
+    at C:\gym-software\server\src\controllers\UserController.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\gym-software\server\src\controllers\UserController.ts:4:12)
+    at getMe (C:\gym-software\server\src\controllers\UserController.ts:153:16)
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+2024-09-29T07:10:30.193Z [info] : Leads fetched successfully
+2024-09-29T07:10:30.195Z [info] : Leads fetched successfully
+2024-09-29T07:10:31.246Z [info] : Authenticated user fetched successfully
+2024-09-29T07:10:31.296Z [info] : Members fetched successfully
+2024-09-29T07:10:31.300Z [info] : Members fetched successfully
+2024-09-29T07:10:33.413Z [info] : Classes fetched successfully
+2024-09-29T07:10:33.415Z [info] : Members fetched successfully
+2024-09-29T07:10:33.418Z [info] : Classes fetched successfully
+2024-09-29T07:10:33.420Z [info] : Members fetched successfully
+2024-09-29T07:10:33.923Z [info] : Members fetched successfully
+2024-09-29T07:10:33.926Z [info] : Members fetched successfully
+2024-09-29T07:10:34.525Z [info] : Members fetched successfully
+2024-09-29T07:10:34.527Z [info] : Members fetched successfully
+2024-09-29T07:10:36.305Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T07:10:36.307Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T07:10:38.326Z [info] : Leads fetched successfully
+2024-09-29T07:10:38.328Z [info] : Leads fetched successfully
+2024-09-29T07:10:39.276Z [info] : Leads fetched successfully
+2024-09-29T07:10:39.277Z [info] : Leads fetched successfully
+2024-09-29T07:10:40.856Z [info] : Leads fetched successfully
+2024-09-29T07:10:40.858Z [info] : Leads fetched successfully
+2024-09-29T07:10:42.285Z [error] : TypeError: Cannot read properties of null (reading '_id')
+    at C:\gym-software\server\src\controllers\LeadController.ts:113:57
+    at Array.filter (<anonymous>)
+    at Proxy.methods.<computed> (C:\gym-software\server\node_modules\mongoose\lib\types\array\methods\index.js:1054:24)
+    at Function.<anonymous> (C:\gym-software\server\src\controllers\LeadController.ts:113:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\gym-software\server\src\controllers\LeadController.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-29T07:13:30.138Z [info] : Authenticated user fetched successfully
+2024-09-29T07:13:30.141Z [info] : Authenticated user fetched successfully
+2024-09-29T07:13:30.167Z [info] : Leads fetched successfully
+2024-09-29T07:13:30.170Z [info] : Leads fetched successfully
+2024-09-29T07:13:30.952Z [info] : Leads fetched successfully
+2024-09-29T07:13:30.954Z [info] : Leads fetched successfully
+2024-09-29T07:13:32.441Z [error] : TypeError: Cannot read properties of null (reading '_id')
+    at C:\gym-software\server\src\controllers\LeadController.ts:113:57
+    at Array.filter (<anonymous>)
+    at Proxy.methods.<computed> (C:\gym-software\server\node_modules\mongoose\lib\types\array\methods\index.js:1054:24)
+    at Function.<anonymous> (C:\gym-software\server\src\controllers\LeadController.ts:113:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\gym-software\server\src\controllers\LeadController.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-29T07:13:35.343Z [info] : Note added to lead successfully
+2024-09-29T07:13:35.346Z [error] : TypeError: Cannot read properties of null (reading '_id')
+    at C:\gym-software\server\src\controllers\LeadController.ts:113:57
+    at Array.filter (<anonymous>)
+    at Proxy.methods.<computed> (C:\gym-software\server\node_modules\mongoose\lib\types\array\methods\index.js:1054:24)
+    at Function.<anonymous> (C:\gym-software\server\src\controllers\LeadController.ts:113:31)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\gym-software\server\src\controllers\LeadController.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-29T19:33:32.641Z [error] : TokenExpiredError: jwt expired
+    at C:\gym-software\server\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\gym-software\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (C:\gym-software\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\gym-software\server\src\controllers\UserController.ts:150:32
+    at Generator.next (<anonymous>)
+    at C:\gym-software\server\src\controllers\UserController.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\gym-software\server\src\controllers\UserController.ts:4:12)
+    at getMe (C:\gym-software\server\src\controllers\UserController.ts:153:16)
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+2024-09-29T19:33:32.650Z [error] : TokenExpiredError: jwt expired
+    at C:\gym-software\server\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\gym-software\server\node_modules\jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (C:\gym-software\server\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\gym-software\server\src\controllers\UserController.ts:150:32
+    at Generator.next (<anonymous>)
+    at C:\gym-software\server\src\controllers\UserController.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\gym-software\server\src\controllers\UserController.ts:4:12)
+    at getMe (C:\gym-software\server\src\controllers\UserController.ts:153:16)
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+2024-09-29T19:33:32.686Z [info] : Leads fetched successfully
+2024-09-29T19:33:32.691Z [info] : Leads fetched successfully
+2024-09-29T19:33:39.562Z [info] : Authenticated user fetched successfully
+2024-09-29T19:33:39.631Z [info] : Members fetched successfully
+2024-09-29T19:33:39.634Z [info] : Members fetched successfully
+2024-09-29T19:33:41.144Z [info] : Leads fetched successfully
+2024-09-29T19:33:41.147Z [info] : Leads fetched successfully
+2024-09-29T19:33:42.024Z [info] : Leads fetched successfully
+2024-09-29T19:33:42.027Z [info] : Leads fetched successfully
+2024-09-29T19:35:07.498Z [info] : Note added to lead successfully
+2024-09-29T19:37:09.063Z [info] : Authenticated user fetched successfully
+2024-09-29T19:37:09.072Z [info] : Authenticated user fetched successfully
+2024-09-29T19:37:09.108Z [info] : Leads fetched successfully
+2024-09-29T19:37:09.113Z [info] : Leads fetched successfully
+2024-09-29T19:37:10.961Z [info] : Leads fetched successfully
+2024-09-29T19:37:10.963Z [info] : Leads fetched successfully
+2024-09-29T19:38:11.351Z [info] : Authenticated user fetched successfully
+2024-09-29T19:38:11.356Z [info] : Authenticated user fetched successfully
+2024-09-29T19:38:11.396Z [info] : Leads fetched successfully
+2024-09-29T19:38:11.400Z [info] : Leads fetched successfully
+2024-09-29T19:38:12.309Z [info] : Leads fetched successfully
+2024-09-29T19:38:12.313Z [info] : Leads fetched successfully
+2024-09-29T19:38:24.258Z [info] : Authenticated user fetched successfully
+2024-09-29T19:38:24.265Z [info] : Authenticated user fetched successfully
+2024-09-29T19:38:24.290Z [info] : Leads fetched successfully
+2024-09-29T19:38:24.295Z [info] : Leads fetched successfully
+2024-09-29T19:38:25.285Z [info] : Leads fetched successfully
+2024-09-29T19:38:25.288Z [info] : Leads fetched successfully
+2024-09-29T19:38:26.128Z [info] : Lead notes fetched successfully
+2024-09-29T19:40:23.912Z [info] : Authenticated user fetched successfully
+2024-09-29T19:40:23.916Z [info] : Authenticated user fetched successfully
+2024-09-29T19:40:23.966Z [info] : Leads fetched successfully
+2024-09-29T19:40:23.969Z [info] : Leads fetched successfully
+2024-09-29T19:40:25.479Z [info] : Leads fetched successfully
+2024-09-29T19:40:25.483Z [info] : Leads fetched successfully
+2024-09-29T19:40:26.585Z [info] : Lead notes fetched successfully
+2024-09-29T19:40:31.646Z [info] : Note deleted from lead successfully
+2024-09-29T19:40:31.653Z [info] : Lead notes fetched successfully
+2024-09-29T19:40:32.094Z [info] : Note deleted from lead successfully
+2024-09-29T19:40:32.099Z [info] : Lead notes fetched successfully
+2024-09-29T19:40:32.456Z [info] : Note deleted from lead successfully
+2024-09-29T19:40:32.460Z [info] : Lead notes fetched successfully
+2024-09-29T19:40:32.915Z [info] : Note deleted from lead successfully
+2024-09-29T19:40:32.919Z [info] : Lead notes fetched successfully
+2024-09-29T19:47:36.499Z [info] : Authenticated user fetched successfully
+2024-09-29T19:47:36.501Z [info] : Authenticated user fetched successfully
+2024-09-29T19:47:36.535Z [info] : Leads fetched successfully
+2024-09-29T19:47:36.538Z [info] : Leads fetched successfully
+2024-09-29T19:47:37.436Z [info] : Leads fetched successfully
+2024-09-29T19:47:37.439Z [info] : Leads fetched successfully
+2024-09-29T19:47:38.323Z [info] : Lead notes fetched successfully
+2024-09-29T19:47:42.752Z [info] : Note added to lead successfully
+2024-09-29T19:47:42.757Z [info] : Lead notes fetched successfully
+2024-09-29T19:47:44.001Z [info] : Authenticated user fetched successfully
+2024-09-29T19:47:44.008Z [info] : Authenticated user fetched successfully
+2024-09-29T19:47:44.041Z [info] : Leads fetched successfully
+2024-09-29T19:47:44.043Z [info] : Leads fetched successfully
+2024-09-29T19:47:45.206Z [info] : Leads fetched successfully
+2024-09-29T19:47:45.210Z [info] : Leads fetched successfully
+2024-09-29T19:47:45.987Z [info] : Lead notes fetched successfully
+2024-09-29T19:53:32.588Z [info] : Authenticated user fetched successfully
+2024-09-29T19:53:32.591Z [info] : Authenticated user fetched successfully
+2024-09-29T19:53:32.626Z [info] : Leads fetched successfully
+2024-09-29T19:53:32.629Z [info] : Leads fetched successfully
+2024-09-29T19:53:33.369Z [info] : Leads fetched successfully
+2024-09-29T19:53:33.371Z [info] : Leads fetched successfully
+2024-09-29T19:53:34.671Z [info] : Lead notes fetched successfully
+2024-09-29T19:54:34.781Z [info] : Authenticated user fetched successfully
+2024-09-29T19:54:34.784Z [info] : Authenticated user fetched successfully
+2024-09-29T19:54:34.811Z [info] : Leads fetched successfully
+2024-09-29T19:54:34.813Z [info] : Leads fetched successfully
+2024-09-29T19:54:35.625Z [info] : Leads fetched successfully
+2024-09-29T19:54:35.627Z [info] : Leads fetched successfully
+2024-09-29T19:54:37.031Z [info] : Lead notes fetched successfully
+2024-09-29T19:54:45.276Z [info] : Authenticated user fetched successfully
+2024-09-29T19:54:45.278Z [info] : Authenticated user fetched successfully
+2024-09-29T19:54:45.304Z [info] : Leads fetched successfully
+2024-09-29T19:54:45.305Z [info] : Leads fetched successfully
+2024-09-29T19:54:46.077Z [info] : Leads fetched successfully
+2024-09-29T19:54:46.080Z [info] : Leads fetched successfully
+2024-09-29T19:54:47.173Z [info] : Lead notes fetched successfully
+2024-09-29T19:54:48.999Z [info] : Note deleted from lead successfully
+2024-09-29T19:54:49.004Z [info] : Lead notes fetched successfully
+2024-09-29T19:54:50.370Z [info] : Note added to lead successfully
+2024-09-29T19:54:50.373Z [info] : Lead notes fetched successfully
+2024-09-29T19:54:52.111Z [info] : Note deleted from lead successfully
+2024-09-29T19:54:52.115Z [info] : Lead notes fetched successfully
+2024-09-29T19:55:40.936Z [info] : Lead created successfully
+2024-09-29T19:55:46.424Z [info] : Authenticated user fetched successfully
+2024-09-29T19:55:46.426Z [info] : Authenticated user fetched successfully
+2024-09-29T19:55:46.452Z [info] : Leads fetched successfully
+2024-09-29T19:55:46.453Z [info] : Leads fetched successfully
+2024-09-29T19:55:47.628Z [info] : Leads fetched successfully
+2024-09-29T19:55:47.630Z [info] : Leads fetched successfully
+2024-09-29T19:55:49.155Z [info] : Lead notes fetched successfully
+2024-09-29T19:55:56.875Z [info] : Note added to lead successfully
+2024-09-29T19:55:56.878Z [info] : Lead notes fetched successfully
+2024-09-29T19:56:20.800Z [info] : Authenticated user fetched successfully
+2024-09-29T19:56:20.803Z [info] : Authenticated user fetched successfully
+2024-09-29T19:56:20.827Z [info] : Leads fetched successfully
+2024-09-29T19:56:20.830Z [info] : Leads fetched successfully
+2024-09-29T19:56:23.689Z [info] : Leads fetched successfully
+2024-09-29T19:56:23.691Z [info] : Leads fetched successfully
+2024-09-29T19:56:26.622Z [info] : Lead notes fetched successfully
+2024-09-29T19:58:36.603Z [info] : Lead notes fetched successfully
+2024-09-29T20:01:20.456Z [info] : Lead notes fetched successfully
+2024-09-29T20:01:25.167Z [info] : Lead notes fetched successfully
+2024-09-29T20:01:53.241Z [info] : Lead notes fetched successfully
+2024-09-29T20:01:54.622Z [info] : Authenticated user fetched successfully
+2024-09-29T20:01:54.625Z [info] : Authenticated user fetched successfully
+2024-09-29T20:01:54.655Z [info] : Leads fetched successfully
+2024-09-29T20:01:54.657Z [info] : Leads fetched successfully
+2024-09-29T20:01:55.542Z [info] : Leads fetched successfully
+2024-09-29T20:01:55.544Z [info] : Leads fetched successfully
+2024-09-29T20:01:56.787Z [info] : Lead notes fetched successfully
+2024-09-29T20:04:55.272Z [info] : Lead notes fetched successfully
+2024-09-29T20:04:55.274Z [info] : Lead notes fetched successfully
+2024-09-29T20:04:55.875Z [info] : Authenticated user fetched successfully
+2024-09-29T20:04:55.878Z [info] : Authenticated user fetched successfully
+2024-09-29T20:04:55.915Z [info] : Leads fetched successfully
+2024-09-29T20:04:55.917Z [info] : Leads fetched successfully
+2024-09-29T20:04:57.107Z [info] : Leads fetched successfully
+2024-09-29T20:04:57.109Z [info] : Leads fetched successfully
+2024-09-29T20:04:59.480Z [info] : Lead notes fetched successfully
+2024-09-29T20:04:59.482Z [info] : Lead notes fetched successfully
+2024-09-29T20:06:10.869Z [info] : Note added to lead successfully
+2024-09-29T20:06:10.873Z [info] : Lead notes fetched successfully
+2024-09-29T20:06:12.543Z [info] : Authenticated user fetched successfully
+2024-09-29T20:06:12.546Z [info] : Authenticated user fetched successfully
+2024-09-29T20:06:12.570Z [info] : Leads fetched successfully
+2024-09-29T20:06:12.572Z [info] : Leads fetched successfully
+2024-09-29T20:06:13.504Z [info] : Leads fetched successfully
+2024-09-29T20:06:13.507Z [info] : Leads fetched successfully
+2024-09-29T20:06:14.855Z [info] : Lead notes fetched successfully
+2024-09-29T20:06:14.857Z [info] : Lead notes fetched successfully
+2024-09-29T20:06:53.846Z [info] : Lead notes fetched successfully
+2024-09-29T20:07:17.379Z [info] : Authenticated user fetched successfully
+2024-09-29T20:07:17.389Z [info] : Authenticated user fetched successfully
+2024-09-29T20:07:17.423Z [info] : Leads fetched successfully
+2024-09-29T20:07:17.425Z [info] : Leads fetched successfully
+2024-09-29T20:07:21.296Z [info] : Leads fetched successfully
+2024-09-29T20:07:21.298Z [info] : Leads fetched successfully
+2024-09-29T20:07:22.280Z [info] : Lead notes fetched successfully
+2024-09-29T20:07:22.282Z [info] : Lead notes fetched successfully
+2024-09-29T20:08:13.510Z [info] : Authenticated user fetched successfully
+2024-09-29T20:08:13.512Z [info] : Authenticated user fetched successfully
+2024-09-29T20:08:13.541Z [info] : Leads fetched successfully
+2024-09-29T20:08:13.542Z [info] : Leads fetched successfully
+2024-09-29T20:08:14.416Z [info] : Leads fetched successfully
+2024-09-29T20:08:14.418Z [info] : Leads fetched successfully
+2024-09-29T20:08:15.221Z [info] : Lead notes fetched successfully
+2024-09-29T20:08:15.223Z [info] : Lead notes fetched successfully
+2024-09-29T20:09:00.618Z [info] : Authenticated user fetched successfully
+2024-09-29T20:09:00.620Z [info] : Authenticated user fetched successfully
+2024-09-29T20:09:00.650Z [info] : Leads fetched successfully
+2024-09-29T20:09:00.651Z [info] : Leads fetched successfully
+2024-09-29T20:09:02.000Z [info] : Leads fetched successfully
+2024-09-29T20:09:02.003Z [info] : Leads fetched successfully
+2024-09-29T20:09:03.032Z [info] : Lead notes fetched successfully
+2024-09-29T20:09:03.034Z [info] : Lead notes fetched successfully
+2024-09-29T20:09:35.393Z [info] : Lead notes fetched successfully
+2024-09-29T20:09:54.722Z [info] : Lead notes fetched successfully
+2024-09-29T20:10:05.278Z [info] : Lead notes fetched successfully
+2024-09-29T20:10:13.001Z [info] : Authenticated user fetched successfully
+2024-09-29T20:10:13.006Z [info] : Authenticated user fetched successfully
+2024-09-29T20:10:13.062Z [info] : Leads fetched successfully
+2024-09-29T20:10:13.065Z [info] : Leads fetched successfully
+2024-09-29T20:10:18.970Z [info] : Leads fetched successfully
+2024-09-29T20:10:18.972Z [info] : Leads fetched successfully
+2024-09-29T20:10:20.017Z [info] : Lead notes fetched successfully
+2024-09-29T20:10:20.019Z [info] : Lead notes fetched successfully
+2024-09-29T20:10:49.669Z [info] : Authenticated user fetched successfully
+2024-09-29T20:10:49.681Z [info] : Authenticated user fetched successfully
+2024-09-29T20:10:49.716Z [info] : Leads fetched successfully
+2024-09-29T20:10:49.719Z [info] : Leads fetched successfully
+2024-09-29T20:10:51.076Z [info] : Leads fetched successfully
+2024-09-29T20:10:51.078Z [info] : Leads fetched successfully
+2024-09-29T20:10:52.433Z [info] : Lead notes fetched successfully
+2024-09-29T20:10:52.437Z [info] : Lead notes fetched successfully
+2024-09-29T20:12:10.179Z [info] : Note added to lead successfully
+2024-09-29T20:12:10.188Z [info] : Lead notes fetched successfully
+2024-09-29T20:12:11.957Z [info] : Note deleted from lead successfully
+2024-09-29T20:12:11.961Z [info] : Lead notes fetched successfully
+2024-09-29T20:12:33.210Z [info] : Members fetched successfully
+2024-09-29T20:12:33.213Z [info] : Members fetched successfully
+2024-09-29T20:12:35.470Z [info] : Classes fetched successfully
+2024-09-29T20:12:35.473Z [info] : Members fetched successfully
+2024-09-29T20:12:35.475Z [info] : Classes fetched successfully
+2024-09-29T20:12:35.477Z [info] : Members fetched successfully
+2024-09-29T20:13:19.238Z [info] : Authenticated user fetched successfully
+2024-09-29T20:13:19.243Z [info] : Authenticated user fetched successfully
+2024-09-29T20:13:19.298Z [info] : Members fetched successfully
+2024-09-29T20:13:19.301Z [info] : Members fetched successfully
+2024-09-29T20:13:20.095Z [info] : Classes fetched successfully
+2024-09-29T20:13:20.099Z [info] : Members fetched successfully
+2024-09-29T20:13:20.102Z [info] : Classes fetched successfully
+2024-09-29T20:13:20.105Z [info] : Members fetched successfully
+2024-09-29T20:13:21.158Z [info] : Leads fetched successfully
+2024-09-29T20:13:21.160Z [info] : Leads fetched successfully
+2024-09-29T20:13:22.185Z [info] : Leads fetched successfully
+2024-09-29T20:13:22.188Z [info] : Leads fetched successfully
+2024-09-29T20:13:22.943Z [info] : Lead notes fetched successfully
+2024-09-29T20:13:22.945Z [info] : Lead notes fetched successfully
+2024-09-29T20:13:27.097Z [info] : Leads fetched successfully
+2024-09-29T20:13:27.100Z [info] : Leads fetched successfully
+2024-09-29T20:13:28.847Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:13:28.849Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:13:28.851Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:13:28.856Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:13:28.858Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:13:28.860Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:13:29.317Z [info] : Leads fetched successfully
+2024-09-29T20:13:29.320Z [info] : Leads fetched successfully
+2024-09-29T20:13:30.657Z [info] : Members fetched successfully
+2024-09-29T20:13:30.664Z [info] : Members fetched successfully
+2024-09-29T20:13:31.760Z [info] : Members fetched successfully
+2024-09-29T20:14:25.165Z [info] : Classes fetched successfully
+2024-09-29T20:14:25.167Z [info] : Members fetched successfully
+2024-09-29T20:14:25.169Z [info] : Classes fetched successfully
+2024-09-29T20:14:25.172Z [info] : Members fetched successfully
+2024-09-29T20:14:37.472Z [info] : Authenticated user fetched successfully
+2024-09-29T20:14:37.475Z [info] : Authenticated user fetched successfully
+2024-09-29T20:14:37.525Z [info] : Members fetched successfully
+2024-09-29T20:14:37.530Z [info] : Members fetched successfully
+2024-09-29T20:14:38.435Z [info] : Members fetched successfully
+2024-09-29T20:14:38.440Z [info] : Members fetched successfully
+2024-09-29T20:14:38.781Z [info] : Classes fetched successfully
+2024-09-29T20:14:38.786Z [info] : Members fetched successfully
+2024-09-29T20:14:38.789Z [info] : Classes fetched successfully
+2024-09-29T20:14:38.790Z [info] : Members fetched successfully
+2024-09-29T20:16:12.721Z [info] : Authenticated user fetched successfully
+2024-09-29T20:16:12.726Z [info] : Authenticated user fetched successfully
+2024-09-29T20:16:12.782Z [info] : Members fetched successfully
+2024-09-29T20:16:12.786Z [info] : Members fetched successfully
+2024-09-29T20:16:16.611Z [info] : Authenticated user fetched successfully
+2024-09-29T20:16:16.614Z [info] : Authenticated user fetched successfully
+2024-09-29T20:16:16.660Z [info] : Members fetched successfully
+2024-09-29T20:16:16.662Z [info] : Members fetched successfully
+2024-09-29T20:16:17.827Z [info] : Classes fetched successfully
+2024-09-29T20:16:17.829Z [info] : Members fetched successfully
+2024-09-29T20:16:17.832Z [info] : Classes fetched successfully
+2024-09-29T20:16:17.835Z [info] : Members fetched successfully
+2024-09-29T20:16:18.272Z [info] : Members fetched successfully
+2024-09-29T20:16:18.274Z [info] : Members fetched successfully
+2024-09-29T20:16:25.189Z [info] : Authenticated user fetched successfully
+2024-09-29T20:16:25.191Z [info] : Authenticated user fetched successfully
+2024-09-29T20:16:25.239Z [info] : Members fetched successfully
+2024-09-29T20:16:25.242Z [info] : Members fetched successfully
+2024-09-29T20:17:42.739Z [info] : Authenticated user fetched successfully
+2024-09-29T20:17:42.748Z [info] : Authenticated user fetched successfully
+2024-09-29T20:17:42.805Z [info] : Members fetched successfully
+2024-09-29T20:17:42.808Z [info] : Members fetched successfully
+2024-09-29T20:17:44.419Z [info] : Classes fetched successfully
+2024-09-29T20:17:44.420Z [info] : Members fetched successfully
+2024-09-29T20:17:44.422Z [info] : Classes fetched successfully
+2024-09-29T20:17:44.424Z [info] : Members fetched successfully
+2024-09-29T20:17:44.983Z [info] : Members fetched successfully
+2024-09-29T20:17:44.986Z [info] : Members fetched successfully
+2024-09-29T20:17:45.513Z [info] : Members fetched successfully
+2024-09-29T20:17:45.516Z [info] : Members fetched successfully
+2024-09-29T20:17:50.708Z [info] : Members fetched successfully
+2024-09-29T20:17:57.785Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:17:57.789Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:17:59.171Z [info] : Members fetched successfully
+2024-09-29T20:17:59.173Z [info] : Members fetched successfully
+2024-09-29T20:18:00.146Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:18:00.149Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:18:00.553Z [info] : Leads fetched successfully
+2024-09-29T20:18:00.557Z [info] : Leads fetched successfully
+2024-09-29T20:18:01.868Z [info] : Leads fetched successfully
+2024-09-29T20:18:01.870Z [info] : Leads fetched successfully
+2024-09-29T20:18:04.091Z [info] : Leads fetched successfully
+2024-09-29T20:18:04.094Z [info] : Leads fetched successfully
+2024-09-29T20:18:13.245Z [info] : Leads fetched successfully
+2024-09-29T20:18:13.248Z [info] : Leads fetched successfully
+2024-09-29T20:18:13.813Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:18:13.815Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:18:13.817Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:18:13.820Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:18:13.821Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:18:13.824Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:18:14.763Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:18:14.766Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:18:27.904Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:18:27.907Z [error] : Error: Not Found
+    at C:\gym-software\server\src\Server.ts:39:21
+    at Layer.handle [as handle_request] (C:\gym-software\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\gym-software\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\gym-software\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:280:10)
+    at C:\gym-software\server\node_modules\express\lib\router\index.js:646:15
+    at next (C:\gym-software\server\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\gym-software\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\gym-software\server\node_modules\express\lib\router\index.js:47:12)
+2024-09-29T20:18:28.379Z [info] : Members fetched successfully
+2024-09-29T20:18:28.385Z [info] : Members fetched successfully
+2024-09-29T20:18:29.939Z [info] : Members fetched successfully
+2024-09-29T20:18:42.789Z [info] : Classes fetched successfully
+2024-09-29T20:18:42.794Z [info] : Members fetched successfully
+2024-09-29T20:18:42.797Z [info] : Classes fetched successfully
+2024-09-29T20:18:42.800Z [info] : Members fetched successfully
+2024-09-29T20:18:43.333Z [info] : Members fetched successfully
+2024-09-29T20:18:43.337Z [info] : Members fetched successfully
+2024-09-29T20:18:44.304Z [info] : Members fetched successfully
+2024-09-29T20:18:44.307Z [info] : Members fetched successfully
